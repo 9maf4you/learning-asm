@@ -1,9 +1,11 @@
 #include <stdio.h>
-int main() {    
-    int number1, number2, sum;
-    number1 = 15;
-    number2 = 29;
-    sum = number1 + number2;
-    sum = number1 + number2;
+
+int add(int a, int b) {
+    int c 
+    c = a + b
+    return c
+}
+
+int main(int a, int b, int c) {    
     return 0;
 }
